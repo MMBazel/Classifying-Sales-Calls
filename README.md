@@ -18,11 +18,13 @@ For this project I implemented first predictive model for my sales organization 
 
 To find out more about this project, check out the attached presentation below! 
 
-Jupyter notebook for project: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Model%2BAnalysis/Capstone%202%20-%20Kickstarter%20-%20Final%20Submission.ipynb)  
+Jupyter notebook for project: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Model%2BAnalysis/Capstone1-FinalVersion-BazeleyMikiko-Springboard.ipynb)  
 
-Final write up: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Capstone%202_%20Final%20Summary.pdf) 
+Final write up: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Capstone%20Project%201_%20Final%20Report.pdf) 
 
-Slides presentation: [LINK](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/tree/master/Detailed%20Milestone%20Reports) 
+Slides presentation: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Slide%20JPGs) 
+
+The nitty gritty detailed reports depicting the process: [Write Ups](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Reports) | [Notebooks](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Notebooks) 
 
 
 For more information about my Springboard work: All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
@@ -39,6 +41,58 @@ Mikiko
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-![alt text](https://github.com/MMBazel/Predicting-Kickstarter-Campaign-Outcomes-Using-NLP-Feature-Engineering/blob/master/Slide%20JPGs/Slide1.JPG?raw=true
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide1.JPG?raw=true
       )
+      
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide2.JPG?raw=true
+      )
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide3.JPG?raw=true
+      )
+      
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide4.JPG?raw=true
+      )
+      
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide5.JPG?raw=true
+      )
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide6.JPG?raw=true
+      )
+      
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide7.JPG?raw=true
+      )
+      
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide8.JPG?raw=true
+      )
+      
+      
+ --------------------------------------------------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Slide%20JPGs/Slide9.JPG?raw=true
+      )
+      
+      
       
