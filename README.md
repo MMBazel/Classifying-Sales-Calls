@@ -31,12 +31,6 @@ For more information about my Springboard work: All of the documentation, code, 
 
 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
-Regards,
-Mikiko
-
-![alt text](
-       https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true
-      )
 
 --------------------------------------------------------------------------------------------------------------------------------
 
