@@ -8,8 +8,8 @@
 
 Hi!
 
-My name is Mikiko Bazeley and this is my repo for my second capstone project: Predicting Outcomes of Demo Calls for a SaaS
-Sales Oriented Company. 
+My name is Mikiko Bazeley and this is my repo for my second capstone project: 
+Predicting Outcomes of Demo Calls for a SaaS Sales Oriented Company. 
 
 From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 
 
