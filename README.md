@@ -8,23 +8,25 @@
 
 Hi!
 
-My name is Mikiko Bazeley and this is my repo for my second capstone project: 
-Predicting Outcomes of Demo Calls for a SaaS Sales Oriented Company. 
+My name is Mikiko Bazeley and this is my second captsone project: 
+Predicting the Outcomes of Demo Calls for a SaaS Company. 
 
 From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 
 
-For this project I implemented the first predictive model for my sales organization utilizing a gradient boosted tree model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. I attained ~80% accuracy & demonstrated value of implementing machine learning in sales org leading to expansion of BI team focus on machine learning related initiatives.
+For this project I implemented a gradient boosted tree model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
+
+I attained ~80% accuracy & demonstrated the value of implementing machine learning to solve low-hanging fruit problems on the business side. This demonstration lead the BI teamt committing to leveraging machine learning and data science for future initiatives. 
 
 
 To find out more about this project, check out the attached presentation below! 
 
-Jupyter notebook for project: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Model%2BAnalysis/Capstone1-FinalVersion-BazeleyMikiko-Springboard.ipynb)  
+☑️ Jupyter notebook for the project: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Model%2BAnalysis/Capstone1-FinalVersion-BazeleyMikiko-Springboard.ipynb)  
 
-Final write up: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Capstone%20Project%201_%20Final%20Report.pdf) 
+☑️ Final write up: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/blob/master/Capstone%20Project%201_%20Final%20Report.pdf) 
 
-Slides presentation: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Slide%20JPGs) 
+☑️ Slides presentation: [LINK](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Slide%20JPGs) 
 
-The nitty gritty detailed reports depicting the process: 
+☑️ The nitty gritty detailed reports depicting the process: 
 [Write Ups](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Reports) | [Notebooks](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Notebooks) 
 
 
