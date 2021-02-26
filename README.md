@@ -6,16 +6,16 @@
 
 # 🕵️‍♀️ Classifying Sales Calls ☎️
 
-Hi!
+👋 Hi!
 
-My name is Mikiko Bazeley and this is my second captsone project: 
+My name is Mikiko Bazeley 👩🏻‍💻 and this is my second captsone project: 
 💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
 
-From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 
+From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
 
-For this project I implemented a gradient boosted tree model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
+For this project I implemented a gradient boosted tree 🌲 model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
 
-I attained ~80% accuracy & demonstrated the value of implementing machine learning to solve low-hanging fruit problems on the business side. This demonstration lead the BI teamt committing to leveraging machine learning and data science for future initiatives. 
+I attained ~80% accuracy & demonstrated the value of implementing machine learning to solve low-hanging fruit problems on the business side. This demonstration lead the BI teamt committing to leveraging machine learning and data science for future initiatives. 🎉💪🏻
 
 
 To find out more about this project, check out the attached presentation below! 
@@ -35,7 +35,7 @@ For more information about my Springboard work:
 
 💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
-If you find my repo useful, let me know OR ☕ consider buying me a coffee! https://www.buymeacoffee.com/mmbazel ☕.
+⚠️ If you find my repo useful, let me know OR ☕ consider buying me a coffee! https://www.buymeacoffee.com/mmbazel ☕.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
